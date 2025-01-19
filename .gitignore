@@ -1,0 +1,9 @@
+.vs
+.vscode
+.secretos
+.cache
+.clangd
+CMakePresets.json
+vcpkg.json
+vcpkg-configuration.json
+fuente/en
